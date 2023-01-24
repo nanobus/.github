@@ -1,6 +1,6 @@
 [![homepage & documentation](https://img.shields.io/website?logo=''&label=Documentation&url=https%3A%2F%2Fnanobus.io)](https://nanobus.io)
 [![Stars](https://img.shields.io/github/stars/nanobus?style=social&logo=''&label=NanoBus%20Org%20Stars)](https://github.com/nanobus/)
-[![twitter](https://img.shields.io/twitter/follow/nanobus?style=social)](https://twitter.com/nanobus)
+[![twitter](https://img.shields.io/twitter/follow/nanobusdev?style=social)](https://twitter.com/nanobusdev)
 
 ![NanoBus Logo](https://github.com/nanobus/nanobus/blob/main/docs/images/nanobus-logo.svg)
 
