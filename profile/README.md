@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/nanobus?style=social&logo=''&label=NanoBus%20Org%20Stars)](https://github.com/nanobus/)
+
 ![NanoBus Logo](https://github.com/nanobus/nanobus/blob/main/docs/images/nanobus-logo.svg)
 
 <h2 align="center">Build production-level software with PoC-level of effort.</h1>
